@@ -17,16 +17,16 @@ while True:
       encouragement_list.append("interesting")
         
     =======
-      encouragement_list.append("I hope the day treats you better! There's always something called tomorrow. :3")
+      encouragement_list.append("I hope the day treats you better! There's always something called tomorrow. Don't give up, things WILL get better!:3")
  >>>>>>> main
       counter += 1
     if each_word == "happy":
       feelings_list.append("happy")
-      encouragement_list.append("you should stay positive, stay strong!")
+      encouragement_list.append("you should stay positive, stay strong! Keep up the good work!")
       counter += 1
     if each_word == "tired":
       feelings_list.append("tired")
-      encouragement_list.append("you could take a break or nap, you deserve it after all you've done!")
+      encouragement_list.append("you could take a break or nap, you deserve it after all you've done! You could also try again tomorrow! Who knows? You may do an even better job after a rest!")
       counter += 1
 
   if counter == 0:
